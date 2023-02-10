@@ -37,10 +37,6 @@ I was born in March 2005 in Shanghai. I don't have a middle name. I grew up in [
 
 I used to live in [Zhangjiang Hi-Tech Park](https://en.wikipedia.org/wiki/Zhangjiang_Hi-Tech_Park) in Shanghai. 
 
-## Sightseeing in Shanghai
-
-## Sightseeing in Hefei
-
 ## Social Life
 
 I am eager to make new friends. However, I do not go out of my way to satisfy others.
@@ -50,6 +46,8 @@ I am eager to make new friends. However, I do not go out of my way to satisfy ot
 I subscribed to [Grammarly](https://app.grammarly.com/). I used to subscribe to [Wix](http://wix.org/).
 
 ## Personal Websites
+
+I used to [blog in WeChat](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E7%A7%AF%E6%9C%A8%E7%9A%84%E6%88%90%E9%95%BF%E4%B8%96%E7%95%8C&ie=utf8&_sug_=n&_sug_type_=). However, since there are many restrictions in WeChat I decided to switch.
 
 I made my [old personal website](https://jimchen4214.wixsite.com/website-1) using [Wix](http://wix.org/), an easy-to-use platform where you can build a website in minutes. However, [Wix](http://wix.org/) is very slow. Inspired by the [CS 188 course website](https://inst.eecs.berkeley.edu/~cs188/sp23/), I decided to make this personal website.
 
