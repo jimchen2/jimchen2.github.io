@@ -39,6 +39,11 @@ Language
 
 - 2021.9 Bronze Medal for outstanding freshman in USTC
 
+## Contact
+
+Wechat: 18701974623
+Email: jimchen4214@gmail.com
+
 
 
 
