@@ -13,6 +13,8 @@ I like [distance running](https://www.youtube.com/watch?v=4ua66oFMEjU&t=192s) an
 I am interested in [philosophy](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL30C13C91CFFEFEA6).
 
 I also enjoy [listening to music on YouTube](https://www.youtube.com/results?search_query=billboard+live) and [blogging](https://www.jimchen4214.wixsite.com/12345/post).
+
+I used to read a lot in middle school. I liked reading [Young Adult literature & Fantasy](https://www.goodreads.com/list/show/43.Best_Young_Adult_Books).
 ## Lifestyle
 
 [Evenings I sleep](https://www.youtube.com/watch?v=CeN1FeJIygQ&t=69s). I need up to [10 hours of sleep at night](https://vogue.sg/eileen-gu-sleep/#:~:text=%E2%80%9CMy%20secret%20weapon%20is%20that,since%20the%20age%20of%2014.). On weekends I usually [go for long hikes](https://www.youtube.com/watch?v=6I6kvtPRnwc). 
