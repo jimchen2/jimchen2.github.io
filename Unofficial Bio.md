@@ -6,6 +6,17 @@ description: >-
 ---
 # Unoffical Bio
 
+## Interests
+
+I like [distance running](https://www.youtube.com/watch?v=4ua66oFMEjU&t=192s) and my favorite athlete is [Eliud Kipchoge](https://www.instagram.com/kipchogeeliud/). [You cannot stop running, this is my life](https://worldathletics.org/news/news/haile-gebrselassie-retires#:~:text=%22I'm%20retiring%20from%20competitive,told%20local%20reporters%20in%20Manchester). [No human is limited!](https://www.youtube.com/watch?v=MoxFkJlVZlA) [Only the disciplined ones are free in life](https://www.youtube.com/watch?v=GzWezWxJxvs).
+
+I am interested in [philosophy](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL30C13C91CFFEFEA6).
+
+I also enjoy [listening to music on YouTube](https://www.youtube.com/results?search_query=billboard+live) and [blogging](https://www.jimchen4214.wixsite.com/12345/post).
+## Lifestyle
+
+[Evenings I sleep](https://www.youtube.com/watch?v=CeN1FeJIygQ&t=69s). I need up to [10 hours of sleep at night](https://vogue.sg/eileen-gu-sleep/#:~:text=%E2%80%9CMy%20secret%20weapon%20is%20that,since%20the%20age%20of%2014.). On weekends I usually [go for long hikes](https://www.youtube.com/watch?v=6I6kvtPRnwc). 
+
 ## Personal Preferences
 
 I am a [minimalist](https://en.wikipedia.org/wiki/Minimalism). [We are simple people](https://www.youtube.com/watch?v=4ua66oFMEjU&t=767s). [I do not have food preferences](https://www.youtube.com/watch?v=NSjslDcpzug&t=122s). I hate design. 
@@ -16,18 +27,6 @@ For information, I like to [search extensively](https://support.google.com/webse
 ## Personal Belief
 
 I am a [libertarian](https://www.lp.org/), and I believe in individual rights. 
-
-## Lifestyle
-
-[Evenings I sleep](https://www.youtube.com/watch?v=CeN1FeJIygQ&t=69s). I need up to [10 hours of sleep at night](https://vogue.sg/eileen-gu-sleep/#:~:text=%E2%80%9CMy%20secret%20weapon%20is%20that,since%20the%20age%20of%2014.). On weekends I usually [go for long hikes](https://www.youtube.com/watch?v=6I6kvtPRnwc). 
-
-# Interests
-
-I like [distance running](https://www.youtube.com/watch?v=4ua66oFMEjU&t=192s) and my favorite athlete is [Eliud Kipchoge](https://www.instagram.com/kipchogeeliud/). [You cannot stop running, this is my life](https://worldathletics.org/news/news/haile-gebrselassie-retires#:~:text=%22I'm%20retiring%20from%20competitive,told%20local%20reporters%20in%20Manchester). [No human is limited!](https://www.youtube.com/watch?v=MoxFkJlVZlA) [Only the disciplined ones are free in life](https://www.youtube.com/watch?v=GzWezWxJxvs).
-
-I am interested in [philosophy](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL30C13C91CFFEFEA6).
-
-I also enjoy [listening to music on YouTube](https://www.youtube.com/results?search_query=billboard+live) and [blogging](https://www.jimchen4214.wixsite.com/12345/post).
 
 
 ## Childhood Life
