@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: About Me
 nav_order: 1
 description: 
 permalink: 
