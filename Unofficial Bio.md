@@ -49,9 +49,9 @@ I am eager to make new friends. However, I do not go out of my way to satisfy ot
 
 I subscribed to [Grammarly](https://app.grammarly.com/). I used to subscribe to [Wix](http://wix.org/).
 
-## Previous website
+## Personal Websites
 
-I made my [old personal website](https://jimchen4214.wixsite.com/website-1) using [Wix](http://wix.org/), an easy-to-use platform where you can build a website in minutes. However, [Wix](http://wix.org/) is very slow. Inspired by the [CS 188 course website](https://inst.eecs.berkeley.edu/~cs188/sp23/), I decided to switch.
+I made my [old personal website](https://jimchen4214.wixsite.com/website-1) using [Wix](http://wix.org/), an easy-to-use platform where you can build a website in minutes. However, [Wix](http://wix.org/) is very slow. Inspired by the [CS 188 course website](https://inst.eecs.berkeley.edu/~cs188/sp23/), I decided to make this personal website.
 
 As of February 2023, [my Wix website](https://jimchen4214.wixsite.com/website-1) is no longer in use.
 
