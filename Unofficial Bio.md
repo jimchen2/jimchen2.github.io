@@ -10,7 +10,7 @@ description: >-
 
 I am a [minimalist](https://en.wikipedia.org/wiki/Minimalism). [We are simple people](https://www.youtube.com/watch?v=4ua66oFMEjU&t=767s). [I do not have food preferences](https://www.youtube.com/watch?v=NSjslDcpzug&t=122s). I hate design. 
 
-I strongly hate the mouse, [Windows](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-sucks-like-seriously/b4c1b2be-2fee-49b8-821b-7712a15a3f66), and [Baidu](https://www.websitemagazine.com/blog/baidu-vs-google-a-comparison). I hate using the iPhone. I prefer [Linux](https://www.linux.org/), [Vim](https://www.vim.org/), and Google. [Help poor children in Uganda!](https://www.vim.org/images/vim_drill_small.JPG)
+I strongly hate the mouse, [Windows](https://twitter.com/Linus__Torvalds/status/296333371393597440), and [Baidu](https://www.websitemagazine.com/blog/baidu-vs-google-a-comparison). I hate using the iPhone. I prefer [Linux](https://www.linux.org/), [Vim](https://www.vim.org/), and Google. [Help poor children in Uganda!](https://www.vim.org/images/vim_drill_small.JPG)
 
 For information, I like to [search extensively](https://support.google.com/websearch/answer/134479?hl=en) on the web. 
 
@@ -44,7 +44,9 @@ I am eager to make new friends. However, I do not go out of my way to satisfy ot
 
 ## Subscriptions
 
-I subscribed to [Grammarly](https://app.grammarly.com/). I used to subscribe to [Wix](http://wix.org/).
+I used to subscribe to [Grammarly](https://app.grammarly.com/), [Wix](http://wix.org/), [NetworkChuck](https://learn.networkchuck.com), [Linode](https://www.linode.com/). Now I don't subscribe to any websites. 
+
+I am just a poor young student, and after eating meals, fruits, and drinking milk I don't always have much money left. [Software is like sex: it's better when it's free](https://twitter.com/Linus__Torvalds/status/296333253571387392).
 
 ## Personal Websites
 
