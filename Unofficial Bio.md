@@ -1,21 +1,10 @@
 ---
 layout: page
-title: Unofficial Bio
-nav_order: 3
-description:
-permalink: /
+title: About
+nav_order: 2
+description: >-
+    Course policies and information.
 ---
 
-# Hi
-
-
-
-
-
-
-
-
-
-
-
-
+# About
+{:.no_toc}
