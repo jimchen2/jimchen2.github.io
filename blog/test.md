@@ -1,6 +1,6 @@
 ---
 layout: page
-title: test
+title: Test
 parent: Blog
 ---
 # First Blog
