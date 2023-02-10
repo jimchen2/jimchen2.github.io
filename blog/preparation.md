@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Preparation
+title: Task
 parent: Blog
 ---
 
@@ -17,7 +17,7 @@ parent: Blog
 - Linear Algebra
 - Data Structures
 - Politics
-- 
+
 ### Courses this semester
 - Algorithms
 - Computer Security
@@ -33,6 +33,7 @@ Algorithms and Computer Security
 - Homework
 - Projects
 - Midterms and Finals
+- 
 ### Machine Learning
 Audit CS 189 and CS 182 and the discussion sections
 ### Coding
