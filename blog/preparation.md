@@ -20,6 +20,8 @@ parent: Blog
 ### Courses this semester
 - Algorithms
 - Computer Security
+
+
 Finish the lectures
 ### CS Missing Semester
 ## Goals
