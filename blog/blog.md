@@ -6,7 +6,7 @@ has_children: true
 permalink: docs/utilities
 ---
 
-# Utilities
+# Blog
 {: .no_toc }
 
 This is my personal blog
