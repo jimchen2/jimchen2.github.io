@@ -33,7 +33,9 @@ Algorithms and Computer Security
 - Homework
 - Projects
 - Midterms and Finals
-- 
+
+
+
 ### Machine Learning
 Audit CS 189 and CS 182 and the discussion sections
 ### Coding
