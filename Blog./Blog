@@ -1,0 +1,13 @@
+---
+layout: default
+title: Blog
+nav_order: 3
+has_children: true
+permalink: /docs/Blog
+---
+
+# Blog
+
+Hi here is my blog!
+
+Nice to meet you!
