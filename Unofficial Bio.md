@@ -7,33 +7,33 @@ description: >-
 # Unoffical Bio
 ## Lifestyle
 
-[Evenings I sleep.](https://www.youtube.com/watch?v=CeN1FeJIygQ&t=69s) I need up to [10 hours of sleep at night](https://vogue.sg/eileen-gu-sleep/#:~:text=%E2%80%9CMy%20secret%20weapon%20is%20that,since%20the%20age%20of%2014.). On weekends I usually [go for long hikes](https://www.youtube.com/watch?v=6I6kvtPRnwc). 
+[Evenings I sleep](https://www.youtube.com/watch?v=CeN1FeJIygQ&t=69s). I need up to [10 hours of sleep at night](https://vogue.sg/eileen-gu-sleep/#:~:text=%E2%80%9CMy%20secret%20weapon%20is%20that,since%20the%20age%20of%2014.). On weekends I usually [go for long hikes](https://www.youtube.com/watch?v=6I6kvtPRnwc). 
 
 # Interests
 
-My favorite athlete is Eliud Kipchoge. [You cannot stop running, this is my life.](https://worldathletics.org/news/news/haile-gebrselassie-retires#:~:text=%22I'm%20retiring%20from%20competitive,told%20local%20reporters%20in%20Manchester)[No human is limited!](https://www.youtube.com/watch?v=MoxFkJlVZlA)[Only the disciplined ones are free in life.](https://www.youtube.com/watch?v=Tc00mDtzIJU&t=873s)
+I like [distance running](https://www.youtube.com/watch?v=4ua66oFMEjU&t=192s) and my favorite athlete is [Eliud Kipchoge](https://www.instagram.com/kipchogeeliud/). [You cannot stop running, this is my life](https://worldathletics.org/news/news/haile-gebrselassie-retires#:~:text=%22I'm%20retiring%20from%20competitive,told%20local%20reporters%20in%20Manchester). [No human is limited!](https://www.youtube.com/watch?v=MoxFkJlVZlA) [Only the disciplined ones are free in life](https://www.youtube.com/watch?v=Tc00mDtzIJU&t=873s).
 
-I am interested in philosophy. 
+I am interested in [philosophy](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL30C13C91CFFEFEA6).
 
-I also enjoy [listening to music on YouTube](https://www.youtube.com/results?search_query=billboard+live) and blogging.
+I also enjoy [listening to music on YouTube](https://www.youtube.com/results?search_query=billboard+live) and [blogging](https://www.jimchen4214.wixsite.com/12345/post).
 
 ## Personal Preferences
 
-I am a minimalist. We are simple people. I do not have food preferences. I hate design. 
+I am a [minimalist](https://en.wikipedia.org/wiki/Minimalism). [We are simple people](https://www.youtube.com/watch?v=4ua66oFMEjU&t=767s). [I do not have food preferences](https://www.youtube.com/watch?v=NSjslDcpzug&t=122s). I hate design. 
 
-I strongly hate the mouse, Windows, and Baidu. I hate using the iPhone. I prefer Linux, Vim, and Google. Help poor children in Uganda!
+I strongly hate the mouse, [Windows](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-sucks-like-seriously/b4c1b2be-2fee-49b8-821b-7712a15a3f66), and [Baidu](https://www.websitemagazine.com/blog/baidu-vs-google-a-comparison). I hate using the iPhone. I prefer [Linux](https://www.linux.org/), [Vim](https://www.vim.org/), and Google. [Help poor children in Uganda!](https://www.vim.org/images/vim_drill_small.JPG)
 
-For information, I like to search extensively on the web. 
+For information, I like to [search extensively](https://support.google.com/websearch/answer/134479?hl=en) on the web. 
 
 ## Personal Belief
 
-I am a libertarian, and I believe in individual rights. 
+I am a [libertarian](https://www.lp.org/), and I believe in individual rights. 
 
 ## Childhood Life
 
-I was born in March 2005. I don't have a middle name. I grew up in Huamu (meaning flowers and trees in Chinese) in Pudong. I spent my childhood years playing in Century Park and Shanghai Sci &Tech Museum.
+I was born in March 2005 in Shanghai. I don't have a middle name. I grew up in [Huamu](https://www.google.com/maps/place/Huamu+Residential+District,+Pudong,+Shanghai,+China,+201204/@31.2063292,121.5388722,15z/data=!3m1!4b1!4m5!3m4!1s0x35b2774f5aa7bceb:0x531b835d17f9b07a!8m2!3d31.20633!4d121.547627) (meaning flowers and trees in Chinese) in Pudong. I spent my childhood years playing in [Century Park](https://www.google.com/maps/place/Century+Park/@31.2145783,121.5476807,16z/data=!4m10!1m2!2m1!1scentury+park+shanghai!3m6!1s0x35b27749ec10c7b9:0x481d13ffeb63e916!8m2!3d31.212134!4d121.543724!15sChVjZW50dXJ5IHBhcmsgc2hhbmdoYWlaFyIVY2VudHVyeSBwYXJrIHNoYW5naGFpkgESdG91cmlzdF9hdHRyYWN0aW9umgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJyZVRoMVRUSm5SUkFC4AEA!16zL20vMDdjX25n) and [Shanghai Science & Technology Museum](https://en.wikipedia.org/wiki/Shanghai_Science_and_Technology_Museum).
 
-I used to live in Zhangjiang Hi-Tech Park in Shanghai, China. 
+I used to live in [Zhangjiang Hi-Tech Park](https://en.wikipedia.org/wiki/Zhangjiang_Hi-Tech_Park) in Shanghai. 
 
 ## Sightseeing in Shanghai
 
@@ -45,13 +45,13 @@ I am eager to make new friends. However, I do not go out of my way to satisfy ot
 
 ## Subscriptions
 
-I subscribed to Grammarly. I used to subscribe to Wix.
+I subscribed to [Grammarly](https://app.grammarly.com/). I used to subscribe to [Wix](http://wix.org/).
 
 ## Previous website
 
-I made my old personal website using Wix, an easy-to-use platform where you can build a website in minutes. However, Wix is very slow. Inspired by the CS 188 course website, I decide to switch.
+I made my [old personal website](https://jimchen4214.wixsite.com/website-1) using [Wix](http://wix.org/), an easy-to-use platform where you can build a website in minutes. However, [Wix](http://wix.org/) is very slow. Inspired by the [CS 188 course website](https://inst.eecs.berkeley.edu/~cs188/sp23/), I decided to switch.
 
-As of February 2023, my Wix website is no longer in use.
+As of February 2023, [my Wix website](https://jimchen4214.wixsite.com/website-1) is no longer in use.
 
 
 
