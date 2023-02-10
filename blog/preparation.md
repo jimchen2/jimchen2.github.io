@@ -27,12 +27,14 @@ Finish the lectures
 
 ### CS Missing Semester
 
-## Tasks
+## Regular
 ### Courses
-Algorithms and Computer Security 
-- Homework
-- Projects
-- Midterms and Finals
+- Algorithms
+- Computer Security 
+- Probability
+- Algebra
+
+Homework, Projects, Midterm & Finals, Classes & Discussions
 
 
 
