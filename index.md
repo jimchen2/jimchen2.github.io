@@ -13,7 +13,7 @@ permalink:
 	
 ## About Me	
 
-I am a sophomore student at the University of Science and Technology of China, majoring in Computer Science. In 2023, I am a visiting student at UC Berkeley.
+I (He/Him) am a sophomore student at the University of Science and Technology of China, majoring in Computer Science. In 2023, I am a visiting student at UC Berkeley.
 
 ## Selected Courses
 
