@@ -46,7 +46,7 @@ I am eager to make new friends. However, I do not go out of my way to satisfy ot
 
 I used to subscribe to [Grammarly](https://app.grammarly.com/), [Wix](http://wix.org/), [NetworkChuck](https://learn.networkchuck.com), [Linode](https://www.linode.com/). Now I don't subscribe to any websites. 
 
-I am just a poor young student, and after eating meals, fruits, and drinking milk I don't always have much money left. [Software is like sex: it's better when it's free](https://twitter.com/Linus__Torvalds/status/296333253571387392).
+I am just a poor young student, and after eating meals, fruits, and drinking milk I don't always have money left. [Software is like sex: it's better when it's free](https://twitter.com/Linus__Torvalds/status/296333253571387392).
 
 ## Personal Websites
 
