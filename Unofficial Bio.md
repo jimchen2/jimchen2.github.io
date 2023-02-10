@@ -6,6 +6,14 @@ description: >-
 ---
 # Unoffical Bio
 
+## Personal Preferences
+
+I am a [minimalist](https://en.wikipedia.org/wiki/Minimalism). [We are simple people](https://www.youtube.com/watch?v=4ua66oFMEjU&t=767s). [I do not have food preferences](https://www.youtube.com/watch?v=NSjslDcpzug&t=122s). I hate design. 
+
+I strongly hate the mouse, [Windows](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-sucks-like-seriously/b4c1b2be-2fee-49b8-821b-7712a15a3f66), and [Baidu](https://www.websitemagazine.com/blog/baidu-vs-google-a-comparison). I hate using the iPhone. I prefer [Linux](https://www.linux.org/), [Vim](https://www.vim.org/), and Google. [Help poor children in Uganda!](https://www.vim.org/images/vim_drill_small.JPG)
+
+For information, I like to [search extensively](https://support.google.com/websearch/answer/134479?hl=en) on the web. 
+
 ## Interests
 
 I like [distance running](https://www.youtube.com/watch?v=4ua66oFMEjU&t=192s) and my favorite athlete is [Eliud Kipchoge](https://www.instagram.com/kipchogeeliud/). [You cannot stop running, this is my life](https://worldathletics.org/news/news/haile-gebrselassie-retires#:~:text=%22I'm%20retiring%20from%20competitive,told%20local%20reporters%20in%20Manchester). [No human is limited!](https://www.youtube.com/watch?v=MoxFkJlVZlA) [Only the disciplined ones are free in life](https://www.youtube.com/watch?v=GzWezWxJxvs).
@@ -19,13 +27,6 @@ I used to read a lot in middle school. I liked reading [Young Adult literature &
 
 [Evenings I sleep](https://www.youtube.com/watch?v=CeN1FeJIygQ&t=69s). I need up to [10 hours of sleep at night](https://vogue.sg/eileen-gu-sleep/#:~:text=%E2%80%9CMy%20secret%20weapon%20is%20that,since%20the%20age%20of%2014.). On weekends I usually [go for long hikes](https://www.youtube.com/watch?v=6I6kvtPRnwc). 
 
-## Personal Preferences
-
-I am a [minimalist](https://en.wikipedia.org/wiki/Minimalism). [We are simple people](https://www.youtube.com/watch?v=4ua66oFMEjU&t=767s). [I do not have food preferences](https://www.youtube.com/watch?v=NSjslDcpzug&t=122s). I hate design. 
-
-I strongly hate the mouse, [Windows](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-sucks-like-seriously/b4c1b2be-2fee-49b8-821b-7712a15a3f66), and [Baidu](https://www.websitemagazine.com/blog/baidu-vs-google-a-comparison). I hate using the iPhone. I prefer [Linux](https://www.linux.org/), [Vim](https://www.vim.org/), and Google. [Help poor children in Uganda!](https://www.vim.org/images/vim_drill_small.JPG)
-
-For information, I like to [search extensively](https://support.google.com/websearch/answer/134479?hl=en) on the web. 
 ## Personal Belief
 
 I am a [libertarian](https://www.lp.org/), and I believe in individual rights. 
