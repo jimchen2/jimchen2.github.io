@@ -30,6 +30,7 @@ Programming
 - C
 - Python
 - Latex
+
 Language
 - Mandarin (Native)
 - English (Proficient) TOEFL score: 109
