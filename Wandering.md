@@ -34,7 +34,6 @@ They stretched in never-ending line
 Along the margin of a bay:
 Ten thousand saw I at a glance,
 Tossing their heads in sprightly dance.
-
 ```
 
 
