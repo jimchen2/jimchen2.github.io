@@ -20,6 +20,8 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
+---
+
 I wandered lonely as a cloud
 That floats on high o'er vales and hills,
 When all at once I saw a crowd,
@@ -34,7 +36,7 @@ Along the margin of a bay:
 Ten thousand saw I at a glance,
 Tossing their heads in sprightly dance.
 
-
+---
 
 
 
