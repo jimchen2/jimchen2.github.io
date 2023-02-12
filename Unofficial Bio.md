@@ -20,7 +20,9 @@ I like [distance running](https://www.youtube.com/watch?v=4ua66oFMEjU&t=192s) an
 
 I am interested in [philosophy](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL30C13C91CFFEFEA6).
 
-I also enjoy [listening to music on YouTube](https://www.youtube.com/results?search_query=billboard+live) and [blogging](https://www.jimchen4214.wixsite.com/12345/post).
+I also enjoy [listening to music on YouTube](https://www.youtube.com/results?search_query=billboard+live), and [poetry](https://www.youtube.com/watch?v=24KChPShTn0&list=PL14DABD8952EDB079). 
+
+I like [blogging](https://jimchen2.github.io/docs/utilities).
 
 I used to read a lot in middle school. I liked reading [Young Adult literature & Fantasy](https://www.goodreads.com/list/show/43.Best_Young_Adult_Books).
 ## Lifestyle
