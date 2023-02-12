@@ -21,7 +21,6 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 </script>
 
 ```
-
 I wandered lonely as a cloud
 That floats on high o'er vales and hills,
 When all at once I saw a crowd,
