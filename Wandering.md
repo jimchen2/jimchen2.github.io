@@ -39,11 +39,24 @@ Tossing their heads in sprightly dance.
 
 ## Disclaimer
 
+Most of the sites here are not legal. Actually I do not like them at all. However, they do exist. 
+
 ## Watching Movies
+
+123Movies, GoMovies, GoStream, MeMovies or 123movieshub was a network of file streaming websites operating from Vietnam which allowed users to watch films for free. It was called the world's "most popular illegal site" before being shut down a few weeks later on foot of a criminal investigation by the Vietnamese authorities. As of February 2023, the network is still active via clone sites.
+
+[A Game of Thrones](https://ww4.fmovies.co/film/game-of-thrones-season-1-1620/)
 
 ## Personal Profiles
 
+You can find a stranger's address and phone number. Horrible, right?
 
+On [Truthfinder](truthfinder.com), get an account and you can find almost everybody's information.
+
+
+## Conclusion
+
+I am a poor young student. I don't subscribe and I don't have bad intentions. These are mere experiences of wandering on the Internet.
 
 
 
