@@ -53,23 +53,19 @@ You can find a stranger's address and phone number. Horrible, right?
 
 On [Truthfinder](truthfinder.com), get an account and you can find almost everybody's information.
 
+## [Face Search](pimeyes.com)
+
+Works 
+![](../../assets/1.jpg)
+
+Shoot a photo of a stranger on the street(maybe a person you have instant crush on), and you can find him/her profiles.
+
+## [YouTube Download](https://y2down.cc/en/)
+
+## [Yumpu Free Ebook](https://www.yumpu.com/en)
+
+You can also search on google and pretty much find every popular books.
 
 ## Conclusion
 
 I am a poor young student. I don't subscribe and I don't have bad intentions. These are mere experiences of wandering on the Internet.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Truthfinder
