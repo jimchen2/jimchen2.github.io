@@ -86,7 +86,7 @@ You can also search on google and pretty much find every popular books.
 
 ## Tutorials
 
-While there is a limited numbers of tutorials on YouTube, and some of them have to be accessed with specific emails (like @berkeley.edu), theses videos are all over bilibili, so there is no excuse on not learning.
+While there is a limited numbers of tutorials on YouTube, and some of them have to be accessed with specific emails (like @berkeley.edu), theses videos are all over bilibili, so there is no excuse for not learning.
 
 ![](../../assets/6.png)
 
