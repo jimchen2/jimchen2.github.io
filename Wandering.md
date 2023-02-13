@@ -3,7 +3,7 @@ layout: page
 title: Wandering
 parent: Blog
 ---
-
+# Wandering
 <button class="btn js-toggle-dark-mode">Dark Mode</button>
 
 <script>
@@ -20,7 +20,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-# Daffodils
+## Daffodils
 ```
 I wandered lonely as a cloud
 That floats on high o'er vales and hills,
@@ -53,14 +53,20 @@ You can find a stranger's address and phone number. Horrible, right?
 
 On [Truthfinder](truthfinder.com), get an account and you can find almost everybody's information.
 
-## [Face Search](pimeyes.com)
+## Face Search
+Search somebody with a photo on PimEyes(pimeyes.com)
 
 Works 
+
 ![](../../assets/1.jpg)
+
+Explanation: I searched with a random photo of myself and my photo on the web turned up.
 
 Shoot a photo of a stranger on the street(maybe a person you have instant crush on), and you can find him/her profiles.
 
 ## [YouTube Download](https://y2down.cc/en/)
+
+Sometimes don't work so search on Google.
 
 ## [Yumpu Free Ebook](https://www.yumpu.com/en)
 
