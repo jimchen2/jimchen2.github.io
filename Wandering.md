@@ -60,6 +60,10 @@ On [Truthfinder](truthfinder.com), get an account and you can find almost everyb
 
 Let's try [Network Chuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ). He is a hacker and it is ok to find his information (I think)
 
+![](../../assets/2.png)
+![](../../assets/3.png)
+![](../../assets/4.png)
+![](../../assets/5.png)
 
 ## Face Search
 Search somebody with a photo on PimEyes(pimeyes.com)
@@ -79,6 +83,13 @@ Sometimes don't work so search on Google.
 ## [Yumpu Free Ebook](https://www.yumpu.com/en)
 
 You can also search on google and pretty much find every popular books.
+
+## Tutorials
+
+While there is a limited numbers of tutorials on YouTube, and some of them have to be accessed with specific emails (like @berkeley.edu), theses videos are all over bilibili, so there is no excuse on not learning.
+
+![](../../assets/6.png)
+
 
 ## Conclusion
 
