@@ -84,9 +84,13 @@ Sometimes don't work so search on Google.
 
 You can also search on google and pretty much find every popular books.
 
+## [Phishing](https://github.com/KasRoudra/PyPhisher)
+
+Clone this directory and you can run a fake google login page where whatever the other person enters you get it on the terminal. Poor google login page, though. Basically you can like email phish other people but it's not that effective.
+
 ## Tutorials
 
-While there is a limited numbers of tutorials on YouTube, and some of them have to be accessed with specific emails (like @berkeley.edu), theses videos are all over bilibili, so there is no excuse for not learning.
+While there is a limited numbers of tutorials on YouTube, and some of them have to be accessed with specific emails (like @berkeley.edu), theses videos are all over bilibili, so there is no excuse for not learning!
 
 ![](../../assets/6.png)
 
