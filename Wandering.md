@@ -47,11 +47,19 @@ Most of the sites here are not legal. Actually I do not like them at all. Howeve
 
 [A Game of Thrones](https://ww4.fmovies.co/film/game-of-thrones-season-1-1620/)
 
+
+[A Game of Thrones on Chinese site](https://xiaoheimi.net/index.php/vod/play/id/1610/sid/1/nid/1.html)
+
+Anyways, there are so much more Chinese free movie sites than other free movie sites, and you can go though it without paying. 
+
 ## Personal Profiles
 
 You can find a stranger's address and phone number. Horrible, right?
 
 On [Truthfinder](truthfinder.com), get an account and you can find almost everybody's information.
+
+Let's try [Network Chuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ). He is a hacker and it is ok to find his information (I think)
+
 
 ## Face Search
 Search somebody with a photo on PimEyes(pimeyes.com)
