@@ -1,0 +1,41 @@
+---
+layout: page
+title: 0x0f02e707
+parent: Blog
+---
+# 0x0f02e707
+<button class="btn js-toggle-dark-mode">Dark Mode</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Dark Mode';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Light Mode';
+  }
+});
+</script>
+
+## Silence
+```
+In restless dreams I walked alone
+Narrow streets of cobblestone
+'Neath the halo of a street lamp
+I turned my collar to the cold and damp
+
+"Fools" said I, "You do not know
+Silence like a cancer grows
+Hear my words that I might teach you
+Take my arms that I might reach you"
+But my words like silent raindrops fell
+And echoed in the wells of silence
+```
+## Room
+I have a very small room in a house shared by 5 people. But it is an independent room so that's enough for me. I don't have much possesions. In the corner
+there are shoes, and a refrigerator. Then there is a closet, desk, chair and bed. I also have a kettle, a laundry basket, my backpack. But that's it, nothing
+interesting.
+
