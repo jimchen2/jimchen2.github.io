@@ -1,0 +1,70 @@
+---
+layout: page
+title: "0x1002e707"
+parent: Blog
+---
+# 0x0f02e707
+<button class="btn js-toggle-dark-mode">Dark Mode</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Dark Mode';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Light Mode';
+  }
+});
+</script>
+
+## Late Nights
+```
+My bad habits lead to late nights endin' alone
+Conversations with a stranger I barely know
+Swearin' this will be the last, but it probably won't
+I got nothin' left to lose, or use, or do
+
+My bad habits lead to wide eyes stare into space
+And I know I'll lose control of the things that I say
+Yeah, I was lookin' for a way out, now I can't escape
+Nothin' happens after two, it's true
+It's true, my bad habits lead to you
+
+
+```
+
+## Poetry
+
+Somehow I had fallen back in love with poetry, ha! I found them beautiful.
+
+## Classes
+
+I don't learn in classes, but that's not all about classes. Class make you keep a normal lifestyle.
+
+## CS Education
+
+CS here is so large and I went to OH and there was like 20 people in the room. Most CS is self-studying. The stress level is really high and the projects are hard.
+I don't know whether they are really effective though, but I know that I am under lot of stress.
+
+## Getting Nowhere
+
+I am kind of disappointed and desparate. No need to explain further.
+
+## Tests
+
+Oh please March come to me. Get done with the tests please.
+
+## Cullens
+
+I find myself wondering about the Cullens and how they are forever in their teen years. I want to be bitten by a vampire and be 17 forever.
+
+## Library
+
+I think I should spend some time studying in library not because it is efficient to study in the libraries but because they make 
+my lifestyle back to normal. I am kind of not in the normal lifestyle now, staying up to at least 1 or 2 every day.
+
+
+
