@@ -32,8 +32,6 @@ And I know I'll lose control of the things that I say
 Yeah, I was lookin' for a way out, now I can't escape
 Nothin' happens after two, it's true
 It's true, my bad habits lead to you
-
-
 ```
 
 ## Poetry
