@@ -1,0 +1,50 @@
+---
+layout: page
+title: Regret
+parent: Blog
+---
+# Regret
+<button class="btn js-toggle-dark-mode">Dark Mode</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Dark Mode';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Light Mode';
+  }
+});
+</script>
+## Guidance
+```
+Let me be your freedom
+Let daylight dry your tears
+I'm here, with you, beside you
+To guard you and to guide you
+
+Let me be your shelter
+Let me be your light
+You're safe, no one will find you
+Your fears are far behind you
+
+Then say you'll share with me one love, one lifetime
+Let me lead you from your solitude
+
+```
+## Frustration
+Now and then I get frustrated. I get frustrated from doing just about anything. When I get frustrated, there is nobody to turn to. I feel sad and lonely.
+I feel bored and have nothing to do to effectively get myself out of that frustration. 
+## Waste
+I have spent 88 hours on zombsroyale profile on in games alone. I don't know how much more time I had spent there. That is equivalent to 3 online courses,
+take each one as 35 hours. I could have done much more things in my life if I just don't go to gaming. I wasted so much of my precious time.
+## Desolation
+But again, it seems I got into such a state whenever I feel bored. I need to find an escape. Then I hurt my feet yesterday from road running at night so
+I can only stay home today. I am feeling quite frustrated over that matter. I mean, I want to be social but it's just different. 
+
+
+
+
