@@ -23,9 +23,12 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 {: .no_toc }
 
 {: .fs-6 .fw-300 }
+
 ```
-Be yourself; everyone else is already taken
+Be yourself; 
+everyone else is already taken
 ```
+
 ![](../../assets/9780375815164_p2_v1_s600x595.jpg)
 
 
