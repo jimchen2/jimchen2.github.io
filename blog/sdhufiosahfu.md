@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Wandering
-parent: Blog
+title: Internet
+parent: Wandering
+grand_parent: Blog
 ---
 # Wandering
 <button class="btn js-toggle-dark-mode">Dark Mode</button>
