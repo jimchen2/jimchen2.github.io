@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Regret
-parent: Blog
+title: "0x1202e707"
+parent: Journal
+grand_parent: Blog
 ---
-# Regret
+# 0x1202e707
 <button class="btn js-toggle-dark-mode">Dark Mode</button>
 
 <script>
