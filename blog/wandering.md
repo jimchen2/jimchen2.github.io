@@ -32,7 +32,7 @@ Echo in this whisper?
 ```
 
 ## Gold
-{% highlight yaml %}
+```
 All that is gold does not glitter,
 Not all those who wander are lost;
 
@@ -40,5 +40,6 @@ From the ashes a fire shall be woken,
 A light from the shadows shall spring;
 Renewed shall be blade that was broken,
 The crownless again shall be king.
-{% endhighlight %}
+```
+
 {: .fs-6 .fw-300 }
