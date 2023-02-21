@@ -2,6 +2,7 @@
 layout: page
 title: Wandering
 parent: Blog
+has_children: true
 ---
 # Wandering
 <button class="btn js-toggle-dark-mode">Dark Mode</button>
