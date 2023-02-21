@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Internet
+title: Websurfing
 parent: Wandering
 grand_parent: Blog
 ---
-# Wandering
+# Websurfing
 <button class="btn js-toggle-dark-mode">Dark Mode</button>
 
 <script>
