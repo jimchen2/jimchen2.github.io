@@ -20,7 +20,6 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   }
 });
 </script>
-{: .no_toc }
 
 ```
 Be yourself; 
