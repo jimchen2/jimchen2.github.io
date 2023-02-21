@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Test
-parent: Blog
+parent: Journal
+grand_parent: Blog
 ---
 # First Blog
 ## Welcome to my new website
