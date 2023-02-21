@@ -24,10 +24,10 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 {: .fs-6 .fw-300 }
 
-```
+{% highlight yaml %}
 Be yourself; 
 everyone else is already taken
-```
+{% endhighlight %}
 
 ![](../../assets/9780375815164_p2_v1_s600x595.jpg)
 
