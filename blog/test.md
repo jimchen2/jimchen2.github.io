@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test
+title: First Blog
 parent: Journal
 grand_parent: Blog
 ---
