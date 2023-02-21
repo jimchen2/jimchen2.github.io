@@ -21,8 +21,6 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-{: .fs-6 .fw-300 }
-
 ## Lost
 ```
 Wandering child
@@ -44,3 +42,4 @@ A light from the shadows shall spring;
 Renewed shall be blade that was broken,
 The crownless again shall be king.
 ```
+{: .fs-6 .fw-300 }
