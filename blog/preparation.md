@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Task
-parent: Blog
+parent: Academics
+grand_parent: Blog
 ---
 
 {: .no_toc .text-delta }
