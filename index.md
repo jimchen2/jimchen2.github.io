@@ -20,6 +20,7 @@ I (He/Him) am a sophomore student at the University of Science and Technology of
 At USTC:
 - Mathematical Analysis 1,2,3
 - Linear Algebra 1,2
+- Analytic Geometry
 - Introduction to C Programming
 - Data Structures
 - Algebra Structures
