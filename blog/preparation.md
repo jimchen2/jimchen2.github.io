@@ -26,8 +26,6 @@ grand_parent: Blog
 
 Finish the lectures
 
-### CS Missing Semester
-
 ## Regular
 ### Courses
 - Algorithms
