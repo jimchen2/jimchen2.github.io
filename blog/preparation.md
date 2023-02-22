@@ -25,13 +25,16 @@ search_exclude: true
 - Algorithms
 - Computer Security
 Finish the lectures
+
 ## Regular
 ### Courses
 - Algorithms
 - Computer Security 
 - Probability
 - Algebra
+-
 Homework, Projects, Midterm & Finals, Classes & Discussions
+
 ### Coding
 Code every day
 
@@ -43,22 +46,27 @@ Coursera course
 
 
 # Feb 21st, 2023
+
 ## Preparation
 ### USTC Final Exam
 - Math Analysis
 - Linear Algebra
 - Data Structures
+
 ## Regular
 ### Courses
 - Algorithms
 - Computer Security 
 - Probability
 - Algebra
+
 Homework, Projects, Midterm & Finals, Classes & Discussions
 MWF 10:00-13:00, MW 17:00-18:30
+
 ### Coding
 Code everyday 5:00-7:00
 ## Goals
+
 ### CS Courses
 161, 170
 61c, 162, 164, 168, 182, 186, 188, 189, 200+
