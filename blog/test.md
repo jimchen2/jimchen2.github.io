@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "20230209"
+nav_order: 1
 parent: Journal
 grand_parent: Blog
 ---
