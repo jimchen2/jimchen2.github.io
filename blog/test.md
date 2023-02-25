@@ -1,10 +1,10 @@
 ---
 layout: page
-title: First Blog
+title: "20230209"
 parent: Journal
 grand_parent: Blog
 ---
-# First Blog
+# 20230209
 ## Welcome to my new website
 What's up, this is my first blog here.
 
