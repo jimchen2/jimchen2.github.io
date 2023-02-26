@@ -5,6 +5,8 @@ nav_order: 1
 parent: Journal
 grand_parent: Blog
 ---
+# 20230209
+
 <button class="btn js-toggle-dark-mode">Dark Mode</button>
 
 <script>
@@ -20,7 +22,6 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   }
 });
 </script>
-# 20230209
 ## Welcome to my new website
 What's up, this is my first blog here.
 
