@@ -3,8 +3,6 @@ layout: page
 title: Task
 parent: Academics
 grand_parent: Blog
-nav_exclude: true
-search_exclude: true
 ---
 
 {: .no_toc .text-delta }
