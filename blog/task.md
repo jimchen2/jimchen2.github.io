@@ -63,13 +63,19 @@ MWF 10:00-13:00, MW 17:00-18:30
 
 ### Coding
 Code everyday 5:00-7:00
-## Goals
 
-### CS Courses
-161, 170
-61c, 162, 164, 168, 182, 186, 188, 189, 200+
-### Math Courses
-Probability, Abstract Algebra
-DIfferential Equations, Complex Analysis, Combinatorics
-### Coding:
-Codeforces ranking 2000+
+# Mar 5th, 2023
+## Preparation
+### Homework
+113 Homework, 106 Homework, 161 Project and Homework, 
+### Exams
+Midterm review
+## Regular
+### Courses
+- Algorithms
+- Computer Security 
+- Probability
+- Algebra
+Finish studying the course materials
+
+### Coding
