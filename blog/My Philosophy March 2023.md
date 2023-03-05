@@ -5,7 +5,7 @@ nav_order: 2
 parent: Wandering
 grand_parent: Blog
 ---
-# Instruction Manuel
+# Instruction Manuel\ My Philosophy
 <button class="btn js-toggle-dark-mode">Dark Mode</button>
 
 <script>
@@ -23,7 +23,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 </script>
 ## Freedom
 
-I must have free time in my life with which I can do whatever I want, without being restricted in a school or being "recommended" to do the "good" stuff, or being assigned a task that I need to finish. This is my right as a human being. I can play computer games, I can watch videos, I can exercise, or I can just sleep. 
+I must have free time in my life with which I can do whatever I want, without being restricted in a school or being "recommended" to do the "good" stuff, or being assigned a task that I need to finish. This is my right as a human being. If by instruction manuel I am prohibited to do something, I can still do it in my free time. I can play computer games, I can watch videos, I can exercise, or I can just sleep. 
 
 I need 3 hours of freedom a day.
 
@@ -43,7 +43,7 @@ I try to fit in the environment and keeping my independence at the same time.
 
 Long sleep is necessary for my well-being. There is no arguing against it. I prioritize sleeping to anything else in life that does not have an immediate affect on my well-being. Studying until late night doesn't indicate you are studying hard. Sleeping few hours doesn't indicate you are working hard. Getting up early doesn't indicate you haven't got enough sleep. 
 
-I need 9 hours of sleep a day. It is a good idea to sleep from 8 pm to 5 am.
+I need 9 hours of sleep a day. It is a good idea to sleep from 8 pm to 5 am, but it is also a good idea to keep it flexible.
 
 ## Hobbies
 
@@ -77,18 +77,64 @@ I try my best on tests, however, I don't care much about results.
 
 ## Studying
 
-Studying is a very complicated thing. Studying didn't lead to success, studying didn't lead to understanding the course really well, although they are related to some extent. I might spend little time studying for a hard course and get very good understandings. I might spend much time studying an easy course and get very bad understandings. By understandings I mean self-evalutaion, thus excluding the outer measure of grades. If I cannot understand an easy material after a reasonable time of studying, there is no point in studying any longer. I should come back to it after perhaps, a year. As a student my primary job is studying, and this is the unique thing that makes me stand out. I am different from athlets, musicians, actors, travelors, workers in that I spend much longer time and much more energy studying.
+Studying is a very complicated thing. Studying didn't lead to success, studying didn't lead to understanding the course really well, although they are
+related to some extent. I might spend little time studying for a hard course and get very good understandings. I might spend much time studying an easy 
+course and get very bad understandings. By understandings I mean self-evalutaion, thus excluding the outer measure of grades. If I cannot understand an 
+easy material after a reasonable time of studying, there is no point in studying any longer. I should come back to it after perhaps, a year. As a student 
+my primary job is studying, and this is the unique thing that makes me stand out. I am different from athlets, musicians, actors, travelors, workers in 
+that I spend much longer time and much more energy studying. I study not because I am told to study. I study not only to stand out among students. I 
+study because knowledge make me stronger, and the person I am. I study because technology rules the world, and I need to learn stuff before jumping in 
+technology. Studying is not limited to tech, they can be all sorts of things. However, studying tech is something that I can easily see progress in. I 
+can finish a course, learning much about a field. Studying tech is the main stuff I should be doing. I prioritize my well-being and efficiency to long 
+studying hours.
 
+I should study about 6 hours a day. Studying should be effective.
 
+## Social Media and Videos online
 
+Spending time on social media and watching videos are, in a long term, a waste of time, if not for a specific purpose. First, they are not necessary. 
+Second, I get distracted and never study again the same day. Celebrities have nothing to do with me. News have nothing to do with me. Actors have nothing 
+to do with me. All I have to care about is myself. I acknowledge that there are many interesting and good videos online. However, that does not mean it 
+is understandable to spend hours online.
 
+I keep track of everything online under my fingers. However, I do not view the useless social media and videos.
 
+## Talking and Sharing on Social Media
 
+Share as few as possible, only when you actually really want to talk and share.
 
+## Clasees
 
+Sometimes classes are beneficial, however, most times, sitting in a classroom is unbearable.
 
+I choose whether or not I go to classes.
 
+## Schedule
 
+Based on the following, my daily schedule should be
 
+5 am wake up
+5-7 study
+7 am morning run
+9-11 study (adjustable)
+2-4 study (adjustable)
+4-8 free time (adjustable)
+8 pm sleep
+
+Sometimes when I get activities I take a day off and study for 3 hours. Usually I try to stick to this schedule.
+
+## Poetry and Songs and Movies
+
+Interesting and boring. I don't care about doing those activities.
+
+## Editing
+I edit my blog now and then. Nothign is kept for certain. I may archive some stuff.
+
+## People and Evaluation
+
+I do not think many people are smarter than me. However, the definition of smarter is based on measures, which, like the different matehmatical measures, 
+takes different values on same sets. Thus, in real life the opposite might occur, and that is why I am always worse off than everybody else in actual 
+measures. I believe, confidently, that I am a unique and interesting human being, and I work hard and simply to become a better person, that's all. It 
+isn't easy to execute. 
 
 
