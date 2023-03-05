@@ -76,6 +76,7 @@ Midterm review
 - Computer Security 
 - Probability
 - Algebra
+
 Finish studying the course materials
 
 ### Coding
