@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Websurfing
+nav_order: 1
 parent: Wandering
 grand_parent: Blog
 ---
