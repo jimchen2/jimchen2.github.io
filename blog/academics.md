@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Academics
+nav_order: 1
 parent: Blog
 has_children: true
 ---
