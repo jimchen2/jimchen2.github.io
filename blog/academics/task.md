@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Task
+nav_order: 1
 parent: Academics
 grand_parent: Blog
 ---
