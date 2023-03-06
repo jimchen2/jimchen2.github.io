@@ -5,10 +5,12 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Dark Mode:
+  "Dark Mode":
     - "#"
-  Github: https://github.com/jimchen2
-  Codeforces: https://codeforces.com/profile/jimchen
+  "Github": 
+    - "https://github.com/jimchen2"
+  "Codeforces:"
+    - "https://codeforces.com/profile/jimchen"
 
 favicon_ico: "favicon.ico"
 
