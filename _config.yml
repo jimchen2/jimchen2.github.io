@@ -5,7 +5,8 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Dark Mode: https://jimchen4214.github.io
+  Dark Mode:
+    - "#"
   Github: https://github.com/jimchen2
   Codeforces: https://codeforces.com/profile/jimchen
 
