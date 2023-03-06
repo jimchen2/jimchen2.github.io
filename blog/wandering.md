@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wandering
+nav_order: 3
 parent: Blog
 has_children: true
 ---
