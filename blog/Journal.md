@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Journal
+nav_order: 2
 parent: Blog
 has_children: true
 ---
