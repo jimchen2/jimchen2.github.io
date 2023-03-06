@@ -3,7 +3,6 @@ layout: page
 title: Archive
 nav_order: 4
 parent: Blog
-has_children: true
 ---
 # Archive
 <button class="btn js-toggle-dark-mode">Dark Mode</button>
