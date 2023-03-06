@@ -29,10 +29,20 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 -[Class is starting](https://jimchen4214.wixsite.com/website-1/post/class-is-starting-and-i-am-getting-ready)
 -[Not gonna use windows anymore](https://jimchen4214.wixsite.com/website-1/post/not-gonna-use-windows-anymore)
 -[Berkeley High School](https://jimchen4214.wixsite.com/website-1/post/__bhs)
+-[Why I stopped using WeChat to Blog](https://jimchen4214.wixsite.com/website-1/post/why-i-stop-using-the-official-wechat-platform)
 -[Start of 2023](https://jimchen4214.wixsite.com/website-1/post/small-and-big-goals-of-2023)
 
 ## 2022
--[Why I stopped using WeChat](https://jimchen4214.wixsite.com/website-1/post/why-i-stop-using-the-official-wechat-platform)
+-[How these days were like](https://jimchen4214.wixsite.com/me12/post/how-these-days-were-like)
+-[How these days were like 2](https://jimchen4214.wixsite.com/me12/post/how-these-days-were-like-2)
+-[Some More Thoughts](https://jimchen4214.wixsite.com/me12/post/some-more-thoughts)
+-[Applying for BGA](https://jimchen4214.wixsite.com/me12/post/applying-for-bga-berkeley-global-access)
+-[Running](https://jimchen4214.wixsite.com/me12/post/running)
+-[My Speech about UBI](https://jimchen4214.wixsite.com/me12/post/my-speech-about-ubi-universal-basic-income)
+-[Problems with Motivation](https://jimchen4214.wixsite.com/me12/post/problems-with-motivation)
+-[A Friday Night](https://jimchen4214.wixsite.com/me12/post/a-friday-night)
+-[Memories](https://jimchen4214.wixsite.com/me12/post/memories)
+-[Searching for ...](https://jimchen4214.wixsite.com/me12/post/searching-for)
 
 ## Before
 ### Book Reviews
