@@ -13,5 +13,5 @@ Textbook: [Probability and Random Processes (Grimmett)](https://www.academia.edu
 ## Notes
 
 - [Chapter 1 Events and their probabilities](https://jimchen2.github.io/assets/Chap1%20(4).pdf)
-- Chapter 2: Random variables and their distributions
+- [Chapter 2: Random variables and their distributions](https://jimchen2.github.io/assets/Chap2%20(2).pdf)
 - Chapter 3: Discrete random variables
