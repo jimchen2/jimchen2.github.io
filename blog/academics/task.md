@@ -5,8 +5,22 @@ nav_order: 1
 parent: Academics
 grand_parent: Blog
 ---
+# Task
+<button class="btn js-toggle-dark-mode">Dark Mode</button>
 
-{: .no_toc .text-delta }
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Dark Mode';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Light Mode';
+  }
+});
+</script>
 
 1. TOC
 {:toc}
