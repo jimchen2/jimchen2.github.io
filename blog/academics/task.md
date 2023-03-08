@@ -2,6 +2,7 @@
 layout: page
 title: Task
 nav_order: 1
+nav_exclude: true
 parent: Academics
 grand_parent: Blog
 ---
