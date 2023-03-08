@@ -5,7 +5,7 @@ nav_order: 2
 parent: Wandering
 grand_parent: Blog
 ---
-# Instruction Manuel\ My Philosophy
+# Instruction Manuel\My Philosophy
 <button class="btn js-toggle-dark-mode">Dark Mode</button>
 
 <script>
@@ -113,13 +113,13 @@ I choose whether or not I go to classes.
 
 Based on the following, my daily schedule should be
 
-5 am wake up
-5-7 study
-7 am morning run
-9-11 study (adjustable)
-2-4 study (adjustable)
-4-8 free time (adjustable)
-8 pm sleep
+- 5 am wake up
+- 5-7 study
+- 7 am morning run
+- 9-11 study (adjustable)
+- 2-4 study (adjustable)
+- 4-8 free time (adjustable)
+- 8 pm sleep
 
 Sometimes when I get activities I take a day off and study for 3 hours. Usually I try to stick to this schedule.
 
@@ -136,5 +136,3 @@ I do not think many people are smarter than me. However, the definition of smart
 takes different values on same sets. Thus, in real life the opposite might occur, and that is why I am always worse off than everybody else in actual 
 measures. I believe, confidently, that I am a unique and interesting human being, and I work hard and simply to become a better person, that's all. It 
 isn't easy to execute. 
-
-
