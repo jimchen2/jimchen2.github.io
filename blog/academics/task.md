@@ -26,6 +26,21 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 1. TOC
 {:toc}
 
+# Mar 11th, 2023
+
+### 1 Schoolwork
+
+4 classes homework, tests
+
+### 2 Auditing
+
+ML, CV, NLP, Grad Algo
+
+## 3 Self-study
+
+ML, Coursera, NLP, Tensorflow
+
+
 # Mar 8th, 2023
 
 It is not the time to come to a conclusion. Instead, it is the time to do the things you need to do.
