@@ -111,3 +111,14 @@ I do not think many people are smarter than me. However, the definition of smart
 takes different values on same sets. Thus, in real life the opposite might occur, and that is why I am always worse off than everybody else in actual 
 measures. I believe, confidently, that I am a unique and interesting human being, and I work hard and simply to become a better person, that's all. It 
 isn't easy to execute. 
+
+## Promotion
+
+I usually don't promote. I promote only when the following conditions satisfy
+
+1 I am perfectly confident of my skills
+2 I am perfectly confident that promoting doesn't affect me in later studies
+3 I will not be disturbed
+4 What I write can be deleted and my personal opinions won't last long on paper
+or 
+The thing is too meaningful to be forgotten.
