@@ -43,7 +43,7 @@ I try to fit in the environment and keeping my independence at the same time.
 
 Long sleep is necessary for my well-being. There is no arguing against it. I prioritize sleeping to anything else in life that does not have an immediate affect on my well-being. Studying until late night doesn't indicate you are studying hard. Sleeping few hours doesn't indicate you are working hard. Getting up early doesn't indicate you haven't got enough sleep. 
 
-I need 9 hours of sleep a day. It is a good idea to sleep from 8 pm to 5 am, but it is also a good idea to keep it flexible.
+I need 9 hours of sleep a day. 
 
 ## Hobbies
 
@@ -77,18 +77,7 @@ I try my best on tests, however, I don't care much about results.
 
 ## Studying
 
-Studying is a very complicated thing. Studying didn't lead to success, studying didn't lead to understanding the course really well, although they are
-related to some extent. I might spend little time studying for a hard course and get very good understandings. I might spend much time studying an easy 
-course and get very bad understandings. By understandings I mean self-evalutaion, thus excluding the outer measure of grades. If I cannot understand an 
-easy material after a reasonable time of studying, there is no point in studying any longer. I should come back to it after perhaps, a year. As a student 
-my primary job is studying, and this is the unique thing that makes me stand out. I am different from athlets, musicians, actors, travelors, workers in 
-that I spend much longer time and much more energy studying. I study not because I am told to study. I study not only to stand out among students. I 
-study because knowledge make me stronger, and the person I am. I study because technology rules the world, and I need to learn stuff before jumping in 
-technology. Studying is not limited to tech, they can be all sorts of things. However, studying tech is something that I can easily see progress in. I 
-can finish a course, learning much about a field. Studying tech is the main stuff I should be doing. I prioritize my well-being and efficiency to long 
-studying hours.
-
-I should study about 6 hours a day. Studying should be effective.
+I study the courses in the school. I study 3 courses per semester. After completing the that, I study on my own.
 
 ## Social Media and Videos online
 
@@ -108,20 +97,6 @@ Share as few as possible, only when you actually really want to talk and share.
 Sometimes classes are beneficial, however, most times, sitting in a classroom is unbearable.
 
 I choose whether or not I go to classes.
-
-## Schedule
-
-Based on the following, my daily schedule should be
-
-- 5 am wake up
-- 5-7 study
-- 7 am morning run
-- 9-11 study (adjustable)
-- 2-4 study (adjustable)
-- 4-8 free time (adjustable)
-- 8 pm sleep
-
-Sometimes when I get activities I take a day off and study for 3 hours. Usually I try to stick to this schedule.
 
 ## Poetry and Songs and Movies
 
