@@ -1,5 +1,5 @@
 # Use the official Node.js image as a base
-FROM node:22-alpine
+FROM node:20-alpine
 
 # Create and change to the app directory
 WORKDIR /app
@@ -12,6 +12,7 @@ RUN git clone https://github.com/jimchen2/linktree .
 
 # Install dependencies
 RUN npm install
+RUN npm install next
 
 # Build the Next.js app
 RUN npm run build
