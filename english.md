@@ -190,7 +190,7 @@ nav_order: 4
 - Yousafzai
   - I Am Malala
 
-![alt text](https://pub-0be4bc99725a45ac9b3be7ebcdc45895.r2.dev/blog_images/2025/11/22/enhe07.png)
+![alt text](image/image.png)
 
 ### Some Other Books I Read
 
