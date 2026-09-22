@@ -56,3 +56,14 @@ permalink: /media/ukrainian/
 - [Коли заснули сині гори](https://youtu.be/mnUzMMPh2Yg)
 - [Чорнії брови, карії очі ❤️ - трішки української романтики з 19 століття](https://youtu.be/epA8JIeCR8E)
 - [Гурт "Рідна пісня" - Сміються-плачуть солов'ї...](https://youtu.be/Wh7sqePFiS8)
+
+
+
+
+## Тарас Шевченко / Taras Shevchenko
+
+- І день іде, і ніч іде... (And Day Goes By, And Night Goes By...)
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BqgoJ7gRAk8" frameborder="0" allowfullscreen></iframe>
+
+- Заповіт / Завещание (Testament)
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/MNcLEUkXqzw" frameborder="0" allowfullscreen></iframe>
