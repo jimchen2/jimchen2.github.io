@@ -3,4 +3,4 @@ title: Home
 layout: home
 ---
 
-Hello World
+Like a dumpster
