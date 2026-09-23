@@ -8,4 +8,6 @@ permalink: /media/chinese/
 
 # Chinese Media
 
-I don't like Chinese media, sorry.
+Song Dynasty Poems
+
+"历代美文选"
