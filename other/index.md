@@ -6,6 +6,8 @@ has_children: true
 permalink: other/
 ---
 
+GOod iea, get some of those rnadom writings
+
 
 ## 🌎-German Places and People - Bavaria, Sachsen, Nordrhein-Westfalen
 
