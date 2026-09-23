@@ -1,8 +1,5 @@
-title: Jim Chen's Dust Wiki
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Jimchen.me's Dust Wiki
+description: Jimchen.me's Dust Wiki
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://jimchen2.github.io
