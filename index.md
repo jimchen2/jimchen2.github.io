@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-Like a dumpster, like the secret garden, like a cactus plant, like a solitary island, like the mountains afar
+Like a dumpster, like the secret garden, like a cactus plant, like a solitary island, like a prayer closet
 
 Assumptions
 
