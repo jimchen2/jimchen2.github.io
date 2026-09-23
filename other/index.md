@@ -3,7 +3,7 @@ layout: default
 title: idk
 parent: Media
 has_children: true
-permalink: /media/other/
+permalink: other/
 ---
 
 

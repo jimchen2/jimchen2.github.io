@@ -3,7 +3,7 @@ layout: default
 title: Russia
 parent: Media
 has_children: true
-permalink: /media/russia/
+permalink: russia/
 ---
 
 ## 🎵-Russian Contemporary Music

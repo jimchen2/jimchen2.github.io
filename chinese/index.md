@@ -3,7 +3,7 @@ layout: default
 title: Chinese
 parent: Media
 has_children: true
-permalink: /media/chinese/
+permalink: chinese/
 ---
 
 # Chinese Media

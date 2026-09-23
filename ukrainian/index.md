@@ -3,7 +3,7 @@ layout: default
 title: Ukrainian
 parent: Media
 has_children: true
-permalink: /media/ukrainian/
+permalink: ukrainian/
 ---
 
 # Ukrainian Media

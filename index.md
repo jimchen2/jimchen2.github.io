@@ -14,7 +14,7 @@ Assumptions
 Now
 
 1. If you are materialistically basically satisfied, whatever you are doing fall into 2 categories: a social activity or a solitary activity.
-2. A solitary activity is what you will be doing on an island, if you are alone, cannot call or write with people, materialistically satisfied and have access to information. (this is: Russian math and basically everything in the dumpster) You do not seek social validation or validation from LLMs for this.
+2. A solitary activity is what you will be doing on an island, if you are alone, cannot call or write with people, materialistically satisfied and have access to information. (this is: Russian math and basically everything in the dumpster) You do not seek social validation, link to the dust wiki anywhere, or validation from LLMs for this.
 3. For social validation, it is in  English and Spanish media.
 
 So you get on top of things, work, and do the dumpster.
