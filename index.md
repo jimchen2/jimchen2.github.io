@@ -8,7 +8,7 @@ Like a dumpster
 Assumptions
 
 1. You will be in the US, or an English speaking, developed country like Canada, Australia, the UK, or Netherlands.
-2. You are going to marry, try to live a stable, traditional family life, and have a comfortable living standard without meaningless suffering or sacrificing yourself.
+2. You are going to marry, try to live a stable, traditional family life, and have a comfortable living standard without meaningless suffering or sacrificing yourself. (maximalism is when people do not have an option, you don't do that)
 3. Your primary language will be English socially with a little Chinese with parents.
 
 Now
