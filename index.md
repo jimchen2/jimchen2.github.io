@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-Like a dumpster, like the secret garden, like a cactus plant, like a solitary island (this is not escapism)
+Like a dumpster, like the secret garden, like a cactus plant, like a solitary museum (this is not escapism)
 
 Assumptions
 
