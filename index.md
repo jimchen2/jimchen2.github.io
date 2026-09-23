@@ -18,3 +18,7 @@ Now
 3. For social validation, it is in  English and Spanish media.
 
 So you get on top of things, work, and do the dumpster.
+
+1. Secular OSS and Math
+2. Russian and Ukrainian
+3. Other Things
