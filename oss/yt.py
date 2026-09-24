@@ -256,3 +256,108 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# (async function extractAndDownload() {
+#     try {
+#         const params = new URLSearchParams(window.location.search);
+#         const videoId = params.get('v') || '3OXq78As9xQ';
+
+#         if (typeof ytcfg === 'undefined') {
+#             console.error('Error: ytcfg object not found. Ensure you are on youtube.com.');
+#             return;
+#         }
+
+#         const apiKey = ytcfg.get('INNERTUBE_API_KEY');
+
+#         // Emulate the Android client context
+#         const androidContext = {
+#             client: {
+#                 clientName: 'ANDROID',
+#                 clientVersion: '21.26.364',
+#                 androidSdkVersion: 30,
+#                 osName: 'Android',
+#                 osVersion: '11',
+#                 hl: 'en',
+#                 gl: 'US'
+#             }
+#         };
+
+#         console.log(`Querying player API for video ID: ${videoId}...`);
+
+#         const response = await fetch(`/youtubei/v1/player?key=${apiKey}&prettyPrint=false`, {
+#             method: 'POST',
+#             headers: {
+#                 'Content-Type': 'application/json',
+#                 'X-YouTube-Client-Name': '3', // 3 represents the Android client
+#                 'X-YouTube-Client-Version': '21.26.364'
+#             },
+#             body: JSON.stringify({
+#                 context: androidContext,
+#                 videoId: videoId,
+#                 playbackContext: {
+#                     contentPlaybackContext: {
+#                         html5Preference: 'HTML5_PREF_WANTS'
+#                     }
+#                 },
+#                 contentCheckOk: true,
+#                 racyCheckOk: true
+#             })
+#         });
+
+#         if (!response.ok) {
+#             throw new Error(`HTTP error: ${response.status}`);
+#         }
+
+#         const data = await response.json();
+#         const status = data.playabilityStatus?.status;
+
+#         if (status !== 'OK') {
+#             console.error('Playability status:', status, data.playabilityStatus?.reason);
+#             return;
+#         }
+
+#         const streamingData = data.streamingData;
+#         if (!streamingData) {
+#             console.error('No streamingData returned in player response.');
+#             return;
+#         }
+
+#         // Check for progressive formats (video + audio combined)
+#         const allFormats = (streamingData.formats || []).concat(streamingData.adaptiveFormats || []);
+#         const directFormats = allFormats.filter(f => f.url);
+
+#         if (directFormats.length === 0) {
+#             console.warn('Direct stream URLs were omitted. Formats likely require signature deciphering.');
+#             return;
+#         }
+
+#         // Prefer progressive (muxed) formats
+#         const muxed = directFormats.filter(f => f.audioQuality && f.height);
+#         const selected = (muxed.length > 0 ? muxed : directFormats)
+#             .sort((a, b) => (b.height || 0) - (a.height || 0))[0];
+
+#         console.log(`Selected format itag: ${selected.itag} (${selected.qualityLabel || 'audio-only'})`);
+#         console.log(`Direct stream URL:\n${selected.url}`);
+
+#         const title = (data.videoDetails?.title || videoId).replace(/[\\/:*?"<>|]+/g, '_');
+#         const ext = selected.mimeType.split(';')[0].split('/')[1] || 'mp4';
+
+#         console.log('Initiating download via browser fetch...');
+#         const mediaRes = await fetch(selected.url);
+#         const blob = await mediaRes.blob();
+
+#         const dlUrl = URL.createObjectURL(blob);
+#         const a = document.createElement('a');
+#         a.href = dlUrl;
+#         a.download = `${title}.${ext}`;
+#         document.body.appendChild(a);
+#         a.click();
+#         document.body.removeChild(a);
+#         URL.revokeObjectURL(dlUrl);
+
+#         console.log('Download triggered.');
+#     } catch (err) {
+#         console.error('Execution error:', err);
+#     }
+# })();
